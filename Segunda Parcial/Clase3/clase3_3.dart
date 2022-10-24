@@ -1,5 +1,4 @@
-//Héctor Edurado Amaya González
-//otro 
+//Héctor Eduardo Amaya González
 void main(List<String> args) {
   User usuario = User(nombre: "Eduardo", edad: 19); //Usuario es una instancia
   print(usuario);
