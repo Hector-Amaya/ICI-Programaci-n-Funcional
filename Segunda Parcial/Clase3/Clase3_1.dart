@@ -1,4 +1,4 @@
-//Héctor Edurado Amaya González
+//Héctor Eduardo Amaya González
 
 //Una sola linea
 /*Comentarios 
