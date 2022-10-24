@@ -1,4 +1,4 @@
-//Héctor Edurado Amaya González
+//Héctor Eduardo Amaya González
 void main(List<String> args) {
   var a = "10";
   var b = "8.5";
