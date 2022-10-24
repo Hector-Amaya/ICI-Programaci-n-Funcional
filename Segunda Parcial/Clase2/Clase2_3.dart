@@ -1,4 +1,4 @@
-//Héctor Edurado Amaya González
+//Héctor Eduardo Amaya González
 import 'dart:math';
 void main(List<String> args) {
   //division entera
