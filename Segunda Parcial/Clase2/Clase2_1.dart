@@ -1,4 +1,4 @@
-//Héctor Edurado Amaya González
+//Héctor Eduardo Amaya González
 void main(){
   num a = 4;
   a as int; //Casting sobre datos numéricos
