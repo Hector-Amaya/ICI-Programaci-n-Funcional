@@ -1,4 +1,4 @@
-//Héctor Edurado Amaya González
+//Héctor Eduardo Amaya González
 void main(List<String> args) {
   int a = 5;
   double b = 9.81;
