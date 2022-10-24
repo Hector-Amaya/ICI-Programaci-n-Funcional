@@ -1,5 +1,4 @@
-//Héctor Edurado Amaya González
-//otro 
+//Héctor Eduardo Amaya González
 void main(List<String> args) {
   User usuario = User.nombre("Amheced"); //Usuario es una instancia
   User usuario2 = User.edad(18); //Usuario2 es una instancia
